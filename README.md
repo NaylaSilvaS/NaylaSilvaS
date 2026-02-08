@@ -85,11 +85,11 @@ para o desenvolvimento da empresa em que atuarei.
 <h2 style="color:#001F54;">Contato</h2>
 
 <p align="center">
-<a href="https://www.instagram.com/seu_perfil_instagram">
+<a href="https://www.instagram.com/nayla._76/">
 <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=001F54">
 </a>
 
-<a href="mailto:seu_email@gmail.com">
+<a href="mailto:nayla.br303@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=001F54">
 </a>
 </p>
