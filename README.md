@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=001F54&pause=1000&size=28&center=true&vCenter=true&width=600&lines=Desenvolvimento+de+Sistemas;Tecnologia+e+Inovação;Aprendizado+Contínuo&background=00000000" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=001F54&pause=1000&size=28&center=true&vCenter=true&width=600&lines=Nayla+Da+Silva+Santos;Tecnologia+e+Inovação;Aprendizado+Contínuo&background=00000000" />
 </div>
 
 <p align="center">
