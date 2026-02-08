@@ -1,16 +1,99 @@
-## Hi there 👋
+<h1 align="center">
+  <span style="color:#001F54;">Perfil Profissional</span>
+</h1>
 
-<!--
-**NaylaSilvaS/NaylaSilvaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=001F54&pause=1000&size=28&center=true&vCenter=true&width=600&lines=Desenvolvimento+de+Sistemas;Tecnologia+e+Inovação;Aprendizado+Contínuo&background=00000000" />
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Ativo-000000?style=for-the-badge&logoColor=001F54">
+  <img src="https://img.shields.io/badge/Área-Tecnologia-000000?style=for-the-badge&logoColor=001F54">
+  <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20de%20Sistemas-000000?style=for-the-badge&logoColor=001F54">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=10&color=0:000000,100:001F54&animation=twinkling"/>
+</p>
+
+</div>
+
+<h2 style="color:#001F54;">Sobre Mim</h2>
+
+<p>
+Sou estudante e entusiasta no segmento de tecnologia, possuindo conhecimento básico e pretendo expandir meus conhecimentos em 
+<b>linguagens de programação, lógica computacional, banco de dados e Pacote Office</b>.
+</p>
+
+<p>
+Possuo experiência como <b>jovem aprendiz na área de tecnologia</b>, onde desenvolvi organização, responsabilidade e foco em resultados.
+Também possuo competências como <b>comunicação ativa, alta adaptabilidade, trabalho em equipe, pensamento analítico, resolução de problemas,
+eficiência na execução de tarefas e proatividade</b>.
+</p>
+
+<p>
+Busco crescimento contínuo no segmento de tecnologia, com o objetivo de evoluir profissionalmente e contribuir de forma produtiva e comprometida
+para o desenvolvimento da empresa em que atuarei.
+</p>
+
+
+<h2 style="color:#001F54;">Competências</h2>
+
+<ul>
+<li>Comunicação ativa</li>
+<li>Alta adaptabilidade</li>
+<li>Trabalho em equipe</li>
+<li>Pensamento analítico</li>
+<li>Resolução de problemas</li>
+<li>Eficiência na execução de tarefas</li>
+<li>Proatividade</li>
+</ul>
+
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=10&color=0:000000,100:001F54&animation=twinkling"/>
+</p>
+
+<h2 style="color:#001F54;">Tecnologias</h2>
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+
+</div>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=10&color=0:000000,100:001F54&animation=twinkling"/>
+</p>
+
+<h2 style="color:#001F54;">Contato</h2>
+
+<p align="center">
+<a href="https://www.instagram.com/seu_perfil_instagram">
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=001F54">
+</a>
+
+<a href="mailto:seu_email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=001F54">
+</a>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,100:001F54&animation=twinkling"/>
+</p>
