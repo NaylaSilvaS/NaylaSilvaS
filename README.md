@@ -84,8 +84,12 @@ para o desenvolvimento da empresa em que atuarei.
   <a href="mailto:nayla.br303@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=001F54">
 </a>
-</p>
+  
+<a href="https://www.linkedin.com/in/SEU_USUARIO/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=001F54">
+</a>
 
+  
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,100:001F54&animation=twinkling"/>
 </p>
