@@ -75,8 +75,9 @@ para o desenvolvimento da empresa em que atuarei.
 <a href="https://www.instagram.com/nayla._76/">
 <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=001F54">
 </a>
-
-<a href="mailto:nayla.br303@gmail.com">
+  
+<p align="center">
+  <a href="mailto:nayla.br303@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=001F54">
 </a>
 </p>
