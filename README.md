@@ -39,14 +39,14 @@ para o desenvolvimento da empresa em que atuarei.
 
 <h2 style="color:#001F54;" align="center">Competências</h2>
 
-<ul align="center">
-<li align="center">Comunicação ativa</li>
-<li>Alta adaptabilidade</li>
-<li>Trabalho em equipe</li>
-<li>Pensamento analítico</li>
-<li>Resolução de problemas</li>
-<li>Eficiência na execução de tarefas</li>
-<li>Proatividade</li>
+<ul style="list-style-position: inside; text-align: center; padding: 0;">
+  <li>Comunicação ativa</li>
+  <li>Alta adaptabilidade</li>
+  <li>Trabalho em equipe</li>
+  <li>Pensamento analítico</li>
+  <li>Resolução de problemas</li>
+  <li>Eficiência na execução de tarefas</li>
+  <li>Proatividade</li>
 </ul>
 
 
@@ -82,7 +82,7 @@ para o desenvolvimento da empresa em que atuarei.
 <img src="https://capsule-render.vercel.app/api?type=rect&height=10&color=0:000000,100:001F54&animation=twinkling"/>
 </p>
 
-<h2 style="color:#001F54;">Contato</h2>
+<h2 style="color:#001F54;" align="center">Contato</h2>
 <p align="center" size:10px>
   55+ (11) 94788-5331
 </p>
