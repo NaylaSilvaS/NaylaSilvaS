@@ -18,29 +18,29 @@
 
 </div>
 
-<h2 style="color:#001F54;">Sobre Mim</h2>
+<h2 style="color:#001F54;" align="center">Sobre Mim</h2>
 
-<p>
+<p align="center">
 Sou estudante e entusiasta no segmento de tecnologia, possuindo conhecimento básico e pretendo expandir meus conhecimentos em 
 <b>linguagens de programação, lógica computacional, banco de dados e Pacote Office</b>.
 </p>
 
-<p>
+<p align="center">
 Possuo experiência como <b>jovem aprendiz na área de tecnologia</b>, onde desenvolvi organização, responsabilidade e foco em resultados.
 Também possuo competências como <b>comunicação ativa, alta adaptabilidade, trabalho em equipe, pensamento analítico, resolução de problemas,
 eficiência na execução de tarefas e proatividade</b>.
 </p>
 
-<p>
+<p align="center">
 Busco crescimento contínuo no segmento de tecnologia, com o objetivo de evoluir profissionalmente e contribuir de forma produtiva e comprometida
 para o desenvolvimento da empresa em que atuarei.
 </p>
 
 
-<h2 style="color:#001F54;">Competências</h2>
+<h2 style="color:#001F54;" align="center">Competências</h2>
 
-<ul>
-<li>Comunicação ativa</li>
+<ul align="center">
+<li align="center">Comunicação ativa</li>
 <li>Alta adaptabilidade</li>
 <li>Trabalho em equipe</li>
 <li>Pensamento analítico</li>
@@ -54,7 +54,7 @@ para o desenvolvimento da empresa em que atuarei.
 <img src="https://capsule-render.vercel.app/api?type=rect&height=10&color=0:000000,100:001F54&animation=twinkling"/>
 </p>
 
-<h2 style="color:#001F54;">Tecnologias</h2>
+<h2 style="color:#001F54;" align="center">Tecnologias</h2>
 
 <div align="center">
 
@@ -83,6 +83,9 @@ para o desenvolvimento da empresa em que atuarei.
 </p>
 
 <h2 style="color:#001F54;">Contato</h2>
+<p align="center" size:10px>
+  55+ (11) 94788-5331
+</p>
 
 <p align="center">
 <a href="https://www.instagram.com/nayla._76/">
