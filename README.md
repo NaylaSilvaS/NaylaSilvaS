@@ -83,7 +83,7 @@ para o desenvolvimento da empresa em que atuarei.
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=001F54">
   </a>
 
-  <a href="https://www.linkedin.com/in/SEU_USUARIO/" target="_blank">
+  <a href="https://www.linkedin.com/in/nayla-da-silva-santos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=001F54">
   </a>
 </p>
