@@ -3,8 +3,12 @@
 </h1>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=001F54&pause=1000&size=28&center=true&vCenter=true&width=600&lines=Nayla+Da+Silva+Santos;Tecnologia+e+Inovação;Aprendizado+Contínuo&background=00000000" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&pause=1000&size=35&center=true&vCenter=true&width=600&lines=Nayla+Da+Silva+Santos&background=00000000" />
 </div>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=10&color=0:000000,100:001F54&animation=twinkling"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Ativo-000000?style=for-the-badge&logoColor=001F54">
@@ -12,13 +16,11 @@
   <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20de%20Sistemas-000000?style=for-the-badge&logoColor=001F54">
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=10&color=0:000000,100:001F54&animation=twinkling"/>
-</p>
+
 
 </div>
 
-<h2 style="color:#001F54;" align="center">Sobre Mim</h2>
+<h1 style="color:#001F54;" align="center">Sobre Mim</h1>
 
 <p align="center">
 Sou estudante e entusiasta no segmento de tecnologia, possuindo conhecimento básico e pretendo expandir meus conhecimentos em 
@@ -36,25 +38,7 @@ Busco crescimento contínuo no segmento de tecnologia, com o objetivo de evoluir
 para o desenvolvimento da empresa em que atuarei.
 </p>
 
-
-<h2 style="color:#001F54;" align="center">Competências</h2>
-
-<ul style="list-style-position: inside; text-align: center; padding: 0;">
-  <li>Comunicação ativa</li>
-  <li>Alta adaptabilidade</li>
-  <li>Trabalho em equipe</li>
-  <li>Pensamento analítico</li>
-  <li>Resolução de problemas</li>
-  <li>Eficiência na execução de tarefas</li>
-  <li>Proatividade</li>
-</ul>
-
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=10&color=0:000000,100:001F54&animation=twinkling"/>
-</p>
-
-<h2 style="color:#001F54;" align="center">Tecnologias</h2>
+<h1 style="color:#001F54;" align="center">Tecnologias</h1>
 
 <div align="center">
 
@@ -82,8 +66,8 @@ para o desenvolvimento da empresa em que atuarei.
 <img src="https://capsule-render.vercel.app/api?type=rect&height=10&color=0:000000,100:001F54&animation=twinkling"/>
 </p>
 
-<h2 style="color:#001F54;" align="center">Contato</h2>
-<p align="center" size:10px>
+<h4 style="color:#001F54;" align="center">Contato</h4>
+<p align="center">
   55+ (11) 94788-5331
 </p>
 
