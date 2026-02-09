@@ -67,29 +67,28 @@ para o desenvolvimento da empresa em que atuarei.
 </div>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=10&color=0:000000,100:001F54&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=10&color=0:000000,100:001F54&animation=twinkling"/>
 </p>
 
-<h4 style="color:#001F54;" align="center">Contato</h4>
-<p align="center">
-  55+ (11) 94788-5331
-</p>
+<h4 align="center" style="color:#001F54;">Contato</h4>
+
+<p align="center">+55 (11) 94788-5331</p>
 
 <p align="center">
-<a href="https://www.instagram.com/nayla._76/">
-<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=001F54">
-</a>
-  
-<p align="center">
+  <a href="https://www.instagram.com/nayla._76/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=001F54">
+  </a>
+
   <a href="mailto:nayla.br303@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=001F54">
-</a>
-  
-<a href="https://www.linkedin.com/in/SEU_USUARIO/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=001F54">
-</a>
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=001F54">
+  </a>
 
-  
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,100:001F54&animation=twinkling"/>
+  <a href="https://www.linkedin.com/in/SEU_USUARIO/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=001F54">
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,100:001F54&animation=twinkling"/>
+</p>
+
