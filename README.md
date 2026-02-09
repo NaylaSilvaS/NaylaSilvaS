@@ -38,7 +38,7 @@ Busco crescimento contínuo no segmento de tecnologia, com o objetivo de evoluir
 para o desenvolvimento da empresa em que atuarei.
 </p>
 
-<h1 style="color:#001F54;" align="center">Tecnologias</h1>
+<h1 style="color:#001F54;" align="center">Hard Skills</h1>
 
 <div align="center">
 
