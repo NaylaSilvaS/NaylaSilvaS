@@ -88,6 +88,12 @@ para o desenvolvimento da empresa em que atuarei.
   </a>
 </p>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NaylaSilvaS&theme=transparent&ring=001F54&fire=001F54&currStreakLabel=001F54" />
+</div>
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,100:001F54&animation=twinkling"/>
 </p>
